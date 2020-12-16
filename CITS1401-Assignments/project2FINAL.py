@@ -224,5 +224,5 @@ def main(corpus_file, commonwords_file_name = None):
                 metricList1 = metric_list(metricList1, metric, word)
                 print_list(metricList1)
             
-main("sample.txt", "common.txt")
+
 
